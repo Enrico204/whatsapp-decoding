@@ -1,0 +1,15 @@
+click==6.6
+Flask==0.12
+Flask-Sockets==0.2.1
+gevent==1.2.0
+gevent-websocket==0.9.5
+greenlet==0.4.11
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.11.11
+backports.ssl-match-hostname==3.5.0.1
+pycrypto==2.6.1
+scapy==2.3.3
+six==1.10.0
+websocket-client==0.40.0
